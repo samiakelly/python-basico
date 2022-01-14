@@ -1,3 +1,5 @@
+#classe utilizaçao de herença da primeira classe conta.
+
 from datetime import datetime
 from conta import Conta
 dataAtual = datetime.today().strftime('%d/%m/%Y')

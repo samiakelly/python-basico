@@ -1,3 +1,5 @@
+#tabela de ingredientes e seu valores ao lado
+
 receita = ('ovo', 1.50 , 'farinha', 3.50 , 'leite', 5.00, 'fermento', 3.00 ,'chocolate', 4.00)
 print ('-' * 40)
 print (f'{"Receita":^40}')

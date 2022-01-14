@@ -1,3 +1,4 @@
+#FAÇA UM ALGORITIMO QUE CALCULE O IMC DA PESSOA E MOSTRE O RESULTADO.
 peso = input('informe seu peso:')
 altura = input ('informe sua altura:')
 imc =  float(peso)/(float(altura)* float(altura))

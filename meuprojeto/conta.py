@@ -1,3 +1,5 @@
+#projeto feito com calsse, criaçao de uma conta de banco.
+
 from datetime import datetime
 dataAtual = datetime.today().strftime('%d/%m/%Y')
 
